@@ -1,0 +1,4 @@
+"string"
+"floats"
+"boolean"
+"lists"
