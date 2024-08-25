@@ -1,0 +1,38 @@
+Task 1
+Quantum computing
+What is it? 
+Quantum computers are computer that use qubit to compute tasks using quantum principle of entanglement to compute at a much faster rate than an regular computer.
+
+What are the possible Social, Moral, Cultural and Ethical benefits of this technology on society?
+Quantum computer will most likely drive the AI revolution forwards and can allow for major advancements in medicine .
+
+What are the possible Social, Moral, Cultural and Ethical risks of this technology on society? 
+Quantum computer can and will most probably result in the standard of encryption to have to chance to stop and mitigate quantum computer from being able to easily gain access and information from the government. 
+
+My conclusion on this technology and what it will mean for our world 10 years from now?
+For the every day person it will not mean much as It will most likely not be possible to implement it in a small form factor like phones or laptops but for the military, intelligence and the advancement of AI it will certainly make a massive difference as it can compute tasks thousands to millions of times faster than an a regular computer and can easily crack and modern day encryption in hours instead of thousands of years for a regular computer .This can also help massively in the medical field as it can use conjunction with AI to help crack protein structure and the effect that certain medicine will cause .
+
+
+
+Task 2 
+Control Unit – A control unit is part of a CPU and is often referred to as the CU. It primary                                                                                                                                                                                       job is to convert electrical binary signals to timings and control signals.
+Von Neumann Architecture – von Neumann architecture is the idea of how data moves around the cpu for and is used in modern CPU architecture. it’s man purpose is to allow the computer to be easy to program as in the 1945 computers where designed for a purpose not coded and made it difficult to re program computers.
+ Intermediate Code – it is the data structure that is used in a compiler or virtual machine internally 
+Assembly Language ¬¬¬¬– it is a language that is designed and build around the computer architecture and is present on the motherboard, It main purpose to be able effectively move data around and to be able to perform tasks.
+Hashing – hashing is a function that is used to give data a number or something else to associate with it .
+Packet Switching – it is the switching of small packets of data across a network 
+Register – it is a small but fast access memory for the CPU
+Optical Storage – it is a type of storage like CD and blue rays that have a data encoded in a material and using light and lasers to read the data .
+Device Driver – it is a way for a computer to communicate with peripheral hardware
+Machine Code – it is a lower level code that means that programs can communicate to different hardware
+Normalisation 
+ASCII – it is a unicode that allows for printable characters 
+Buses 
+Operating System – An operating system is a system which allows a user to interact to a computer
+Compiler 
+Lossy Compression 
+TCP/IP Stack 
+Decomposition
+
+
+Task 3
