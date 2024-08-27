@@ -1,12 +1,39 @@
 import tkinter as tk
+from tkinter import ttk
 
-window = tk.Tk()
-window.title("Password checker")
-window.geometry("400x300")
-window.configure(background = "light blue")
-window.minsize(500, 400)  # width, height
+def button_one_press():
+    label = tk.Label(root, text="you pressed button 1 ", font=("Helvetica", 16))
+    label.pack(pady=20)
+
+def button_two_press():
+    label = tk.Label(root, text="you pressed button 2 ", font=("Helvetica", 16))
+    label.pack(pady=20)
 
 
-window.mainloop()
+# Create the main window
+root = tk.Tk()
+root.geometry('500x350')
+root.resizable(False, False)
+root.title('Button Demo')
+
+# Create an "Exit" button
+
+button_one = ttk.Button(root, text = 'Button_one', command=lambda:button_one_press() )
+button_one.pack(ipadx=5, ipady=5, expand=True)
+
+button_two = ttk.Button(root, text = 'Button_two', command=lambda:button_two_press() )
+button_two.pack(ipadx=5, ipady=5, expand=True)
+
+
+exit_button = ttk.Button(root, text = 'Quit', command=lambda: root.quit())
+exit_button.pack(ipadx=5, ipady=5, expand=True)
+
 
 from tkinter import *
+
+
+# Start the Tkinter event loop
+root.mainloop()
+
+
+
