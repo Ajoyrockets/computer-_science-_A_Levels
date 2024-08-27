@@ -46,7 +46,7 @@ try:
     mixing_operation ()
 except:
     print ("[                                                       ]")
-    print ("Exception catching")
+    print ("  Exception catching   ")
 
 #exercie
 

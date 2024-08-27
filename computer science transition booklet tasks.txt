@@ -22,7 +22,7 @@ For the every day person it will not mean much as It will most likely not be pos
 
 Task 2 
 
-Control Unit – A control unit is part of a CPU and is often referred to as the CU. It primary                                                                                                                                                                                       job is to convert electrical binary signals to timings and control signals.
+Control Unit – A control unit is part of a CPU and is often referred to as the CU. It primary job is to convert electrical binary signals to timings and control signals.
 Von Neumann Architecture – von Neumann architecture is the idea of how data moves around the cpu for and is used in modern CPU architecture. it’s man purpose is to allow the computer to be easy to program as in the 1945 computers where designed for a purpose not coded and made it difficult to re program computers.
  Intermediate Code – it is the data structure that is used in a compiler or virtual machine internally 
 Assembly Language – it is a language that is designed and build around the computer architecture and is present on the motherboard, It main purpose to be able effectively move data around and to be able to perform tasks.
@@ -32,14 +32,18 @@ Register – it is a small but fast access memory for the CPU
 Optical Storage – it is a type of storage like CD and blue rays that have a data encoded in a material and using light and lasers to read the data .
 Device Driver – it is a way for a computer to communicate with peripheral hardware
 Machine Code – it is a lower level code that means that programs can communicate to different hardware
-Normalisation -
+Normalisation - it is a way of organising data in a proper manner to minimise data redundancy 
 ASCII – it is a unicode that allows for printable characters 
-Buses 
+Buses - it is the way for componets inside of a computer to be able to commiuncate with each other and is also used between computers
 Operating System – An operating system is a system which allows a user to interact to a computer
-Compiler 
-Lossy Compression 
-TCP/IP Stack 
-Decomposition
+Compiler - it a special program that turns /translates a programing language into machine laungage for from  python to bits as an example 
+Lossy Compression - it is a way of removeing small chunks of data to reduce file size without it being noticeable for a human to see / hear and is usely used for jpeg and mp3 files to name a couple .
+TCP/IP Stack - 
+Decomposition - decompresion is spilting data for a computer so it can more easily word with the data 
 
 
 Task 3
+
+essay question :We now rely too much on technology 
+
+I agree to the 
