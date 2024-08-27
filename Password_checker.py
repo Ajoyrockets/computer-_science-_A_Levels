@@ -37,15 +37,34 @@ def check_password_strength(password):
     return f"Password strength: {strength}, Score: {score}"
 
 # Function to generate a strong password
-def generate_strong_password():
-    while True:
-        length = random.randint(8, 12)
-        password = ''.join(random.choice(ALLOWED_CHARACTERS) for _ in range(length))
-        result = check_password_strength(password)
-        if "strong" in result:
-            score = result.split("Score: ")[1]
-            return password, score
+def generate_strong_password ():
+    password_range = random.randint (11,12)
+    generate_random_password = ''.join (random.choice(ALLOWED_CHARACTERS)for _ in range(password_range))
+    
+    score = len(generate_random_password)
+    unique_char_types = 0
+    
+    if any(char.islower() for char in generate_random_password):
+        unique_char_types += 1
+    if any(char.isupper() for char in generate_random_password):
+        unique_char_types += 1
+    if any(char.isdigit() for char in generate_random_password):
+        unique_char_types += 1
+    if any(char in "!$%^&*()-_=+" for char in generate_random_password):
+        unique_char_types += 1
 
+    score += unique_char_types * 2  # Award 2 points for each unique character type
+
+    if score >= 20:
+        strength = "strong"
+    elif score <= 10:
+        strength = "weak"
+    else:
+        strength = "medium"
+    
+    print(generate_random_password)
+    print(score)
+    print(strength)
 # Main program loop
 def main():
     while True:
