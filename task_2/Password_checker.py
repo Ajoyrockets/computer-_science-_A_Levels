@@ -62,7 +62,7 @@ def generate_strong_password ():
     else:
         strength = "medium"
     
-    return(f"Generated password: {generate_random_password}, Score: {score},strengh: {strength}")
+    return(generate_random_password, score, strength)
 
 # Main program loop
 def main():
@@ -79,8 +79,8 @@ def main():
             result = check_password_strength(password)
             print(result)
         elif choice == '2':
-            generate_random_password ,score = generate_strong_password()
-            print(f"Generated password: {generate_random_password}, Score: {score}")
+            generate_random_password ,score ,strength = generate_strong_password()
+            print(f"Generated password: {generate_random_password}, Score: {score},strengh: {strength}")
         elif choice == '3':
             print("Goodbye!")
             break
