@@ -7,14 +7,17 @@ What is it?
 Quantum computers are computer that use qubit to compute tasks using quantum principle of entanglement to compute at a much faster rate than an 
 regular computer.
 
+
 What are the possible Social, Moral, Cultural and Ethical benefits of this technology on society?
 
 Quantum computer will most likely drive the AI revolution forwards and can allow for major advancements in medicine .
+
 
 What are the possible Social, Moral, Cultural and Ethical risks of this technology on society? 
 
 Quantum computer can and will most probably result in the standard of encryption to have to chance to stop and mitigate quantum computer from being
 able to easily gain access and information from the government. 
+
 
 My conclusion on this technology and what it will mean for our world 10 years from now?
 
@@ -74,4 +77,10 @@ Task 3
 
 essay question :We now rely too much on technology 
 
-I agree to the question in which we realy to much on technology as a failer of all 
+I agree to the question in which we realy to much on technology as a failer of all technology based machines would immediately result in the death 
+of a large population of the world as powergrids failing ,supply chains are crumpling and food is rooting in the feilds as one of more obvious 
+tragedy and this is only the tip of the icebreg. Thank's fully this is one of the most unlikely events to occour but i does raise many questions and 
+one of being what threats to technology is there .
+
+There are many threats to the I.T world and one of the previlent is the hacking or the unwanted and unlawfull access to one's computer usely 
+accessing a persons computer without the owner explicent knowlenge again usely to steal one's data and or to cause harm . Ransomeware is one of the
