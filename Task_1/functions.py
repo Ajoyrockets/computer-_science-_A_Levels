@@ -1,16 +1,11 @@
 #functions
 
-
-# block_head:
-#     1st block line
-#     2nd block line
-#     ...
-
-
 def my_function():
     print("Hello From My Function!")
 
-
+#fucntions are blocks of code that can be can contain
+#code that can pulled or runned at diffrent points of
+#the code 
 
 
 def my_function_with_args(username, greeting):
@@ -20,7 +15,7 @@ def my_function_with_args(username, greeting):
 def sum_two_numbers(a, b):
     return a + b
 
-
+#the return function basicly 
 
 
 # Define our 3 functions
@@ -50,11 +45,12 @@ x = sum_two_numbers(1,2)
 
 # Modify this function to return a list of strings as defined above
 def list_benefits():
-    return []
+    return "More organized code", "More readable code", "Easier code reuse", "Allowing programmers to share and connect code together"
 
 # Modify this function to concatenate to each benefit - " is a benefit of functions!"
 def build_sentence(benefit):
-    return ""
+    return "%s is a benefit of functions!" % benefit
+
 
 def name_the_benefits_of_functions():
     list_of_benefits = list_benefits()

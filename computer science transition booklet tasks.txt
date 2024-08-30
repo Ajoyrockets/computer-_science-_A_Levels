@@ -10,7 +10,7 @@ regular computer.
 
 What are the possible Social, Moral, Cultural and Ethical benefits of this technology on society?
 
-Quantum computer will most likely drive the AI revolution forwards and can allow for major advancements in medicine .
+Quantum computer will most likely drive the AI revolution forwards and can allow for major advancements in medicine.
 
 
 What are the possible Social, Moral, Cultural and Ethical risks of this technology on society? 
@@ -21,11 +21,11 @@ able to easily gain access and information from the government.
 
 My conclusion on this technology and what it will mean for our world 10 years from now?
 
-For the every day person it will not mean much as It will most likely not be possible to implement it in a small form factor like phones or laptops
+For the everyday person it will not mean much as It will most likely not be possible to implement it in a small form factor like phones or laptops
 but for the military, intelligence and the advancement of AI it will certainly make a massive difference as it can compute tasks thousands to 
-millions of times faster than an a regular computer and can easily crack and modern day encryption in hours instead of thousands of years for a 
-regular computer .This can also help massively in the medical field as it can use conjunction with AI to help crack protein structure and the effect 
-that certain medicine will cause .
+millions of times faster than a regular computer and can easily crack and modern-day encryption in hours instead of thousands of years for a 
+regular computer. This can also help massively in the medical field as it can use conjunction with AI to help crack protein structure and the effect 
+that certain medicine will cause.
 
 
 
@@ -34,8 +34,8 @@ Task 2
 Control Unit – A control unit is part of a CPU and is often referred to as the CU. It primary job is to convert electrical binary signals to timings
 and control signals.
 
-Von Neumann Architecture – von Neumann architecture is the idea of how data moves around the cpu for and is used in modern CPU architecture. it’s 
-man purpose is to allow the computer to be easy to program as in the 1945 computers where designed for a purpose not coded and made it difficult to
+Von Neumann Architecture – von Neumann architecture is the idea of how data moves around the CPU for and is used in modern CPU architecture. it’s 
+main purpose is to allow the computer to be easy to program as in the 1945 computers where designed for a purpose not coded and made it difficult to
 re program computers.
 
 Intermediate Code – it is the data structure that is used in a compiler or virtual machine internally 
@@ -59,28 +59,29 @@ Normalisation - it is a way of organising data in a proper manner to minimise da
 
 ASCII – it is a unicode that allows for printable characters 
 
-Buses - it is the way for componets inside of a computer to be able to commiuncate with each other and is also used between computers
+Buses - it is the way for components inside of a computer to be able to communicate with each other and is also used between computers
 
 Operating System – An operating system is a system which allows a user to interact to a computer
 
-Compiler - it a special program that turns /translates a programing language into machine laungage for from  python to bits as an example 
+Compiler - it a special program that turns /translates a programming language into machine language for from  python to bits as an example 
 
-Lossy Compression - it is a way of removeing small chunks of data to reduce file size without it being noticeable for a human to see / hear and is 
-usely used for jpeg and mp3 files to name a couple .
+Lossy Compression - it is a way of removing small chunks of data to reduce file size without it being noticeable for a human to see / hear and is 
+usually used for jpeg and mp3 files to name a couple .
 
 TCP/IP Stack - 
 
-Decomposition - decompresion is spilting data for a computer so it can more easily word with the data 
+Decomposition - decompression is splitting data for a computer so it can more easily word with the data 
 
 
 Task 3
 
-essay question :We now rely too much on technology 
+essay question: We now rely too much on technology 
 
-I agree to the question in which we realy to much on technology as a failer of all technology based machines would immediately result in the death 
-of a large population of the world as powergrids failing ,supply chains are crumpling and food is rooting in the feilds as one of more obvious 
-tragedy and this is only the tip of the icebreg. Thank's fully this is one of the most unlikely events to occour but i does raise many questions and 
-one of being what threats to technology is there .
+I agree to the question in which we rely too much on technology as a failure of all technology-based machines would immediately result in the death 
+of a large population of the world as power grids failing, supply chains are crumpling, and food is rooting in the fields as one of more obvious 
+tragedy and this is only the tip of the iceberg. Thanks’ fully this is one of the most unlikely events to occur, but I do raise many questions and 
+one of being what threats to technology is there.
 
-There are many threats to the I.T world and one of the previlent is the hacking or the unwanted and unlawfull access to one's computer usely 
-accessing a persons computer without the owner explicent knowlenge again usely to steal one's data and or to cause harm . Ransomeware is one of the
+There are many threats to the I.T world and one of the prevalent is the hacking or the unwanted and unlawful access to one's computer usually 
+accessing a person’s computer without the owner explicit knowledge again usually to steal one's data and or to cause harm. Ransomware is one of the
+
