@@ -53,22 +53,21 @@ Optical Storage – it is a type of storage like CD and blue rays that have a da
 
 Device Driver – it is a way for a computer to communicate with peripheral hardware
 
-Machine Code – it is a lower level code that means that programs can communicate to different hardware
+Machine Code – it is a lower-level code that means that programs can communicate to different hardware
 
 Normalisation - it is a way of organising data in a proper manner to minimise data redundancy 
 
-ASCII – it is a unicode that allows for printable characters 
+ASCII – it is a Unicode that allows for printable characters 
 
 Buses - it is the way for components inside of a computer to be able to communicate with each other and is also used between computers
 
 Operating System – An operating system is a system which allows a user to interact to a computer
 
-Compiler - it a special program that turns /translates a programming language into machine language for from  python to bits as an example 
+Compiler - it a special program that turns /translates a programming language into machine language for from python to bits as an example 
 
-Lossy Compression - it is a way of removing small chunks of data to reduce file size without it being noticeable for a human to see / hear and is 
-usually used for jpeg and mp3 files to name a couple .
+Lossy Compression - it is a way of removing small chunks of data to reduce file size without it being noticeable for a human to see / hear and is usually used for jpeg and mp3 files to name a couple.
 
-TCP/IP Stack - 
+TCP/IP Stack -  Explains the functionality of how data moves across the internet to your computer from the application layer to the network access layer .
 
 Decomposition - decompression is splitting data for a computer so it can more easily word with the data 
 
@@ -77,11 +76,23 @@ Task 3
 
 essay question: We now rely too much on technology 
 
-I agree to the question in which we rely too much on technology as a failure of all technology-based machines would immediately result in the death 
+I agree to the question in which we rely too much on technology as a failure of all technology-based machines would immediately result in the death
 of a large population of the world as power grids failing, supply chains are crumpling, and food is rooting in the fields as one of more obvious 
-tragedy and this is only the tip of the iceberg. Thanks’ fully this is one of the most unlikely events to occur, but I do raise many questions and 
-one of being what threats to technology is there.
+tragedy and this is only the tip of the iceberg. Thanks’ fully this is one of the most unlikely events to occur, but I do raise many questions 
+and one of being what threats to technology is there.
 
 There are many threats to the I.T world and one of the prevalent is the hacking or the unwanted and unlawful access to one's computer usually 
 accessing a person’s computer without the owner explicit knowledge again usually to steal one's data and or to cause harm. Ransomware is one of the
+biggest dangers to security of many computers. Ransomware is the hacking of computers or computer systems to again access to a computer data and 
+to lock it unless money is given. This occurred once with the NHS from a group called WannaCry and caused a large amount of damage not just to the 
+NHS but to a lot of personal computers. The best way to deal with Ransome where is to same all your important data on a sperate drive or on the cloud.
 
+Another Threat to the IT systems is the lose of the power grid through a power surge EMP or other means a disabling to the power grid can cause IT 
+system to crash. EMPS are very specific and the best way to deal with them is to Power down the grid so that that the EMP doesn’t cause as much 
+damage. Power surges can also be disastrous as it can cause motherboards to be damaged to the point of no use and can cause fire. To limit the 
+damage, you can use a power supply to make sure the voltage does fluctuate.
+
+
+The final threat to the IT systems is the fibre optic cables that transfer data across the world. This cable can be destroyed intentionally by
+ foreign powers or by commercial shipping. Over 90% of the world’s internet travels through theses cables and the destruction of a large group 
+ would be crimpling for the world and especially it’s economy with billions of pounds lost .
