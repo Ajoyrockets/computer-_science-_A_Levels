@@ -1,0 +1,34 @@
+queue = []
+
+def enqueue():
+    queue.append(input("Add a number to the queue"))
+    print(queue)
+
+def dequeue ():
+    return 0
+
+def operation (main_function):
+    if main_function == "1" :
+        enqueue ()
+    elif main_function == "2" :
+        dequeue ()
+    elif main_function == "3" :
+        print("queue")
+    else :
+        quit()
+
+
+def main():
+    print("""MENU:
+Enqueue Item  -- 1
+Dequeue Item  -- 2
+See queue     -- 3
+Quit          -- 4""")
+    main_function = input("Type in ether 1 , 2 ,3 or 4:") # this will be used get an input from  
+    operation(main_function)                              # the user to see what they want to do
+    return main_function
+    
+if __name__ == "__main__":
+    main()
+
+    
